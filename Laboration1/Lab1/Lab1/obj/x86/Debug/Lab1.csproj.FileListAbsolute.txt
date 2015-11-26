@@ -1,0 +1,30 @@
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\Lab1.exe
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\Lab1.pdb
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\Content\blackBox.png
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\Content\player.png
+c:\users\linus\documents\visual studio 2013\Projects\Lab1\Lab1\bin\Windows\Debug\Content\whiteBox.png
+C:\Users\Linus\Documents\Visual Studio 2013\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Linus\git1\1DV437_Laborations\Laboration1\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\Linus\git1\1DV437_Laborations\Laboration1\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
